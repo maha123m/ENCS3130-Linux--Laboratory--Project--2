@@ -48,7 +48,8 @@
 
   ## Project Scope:
   
-    This project involves the development of an interactive online shopping system that provides role-based access, efficient product management, and a seamless shopping         experience. It ensures data integrity, user authentication, and comprehensive input validation for a reliable e-commerce platform.
+    This project involves the development of an interactive online shopping system that provides role-based access, efficient product management,
+    and a seamless shopping  experience. It ensures data integrity, user authentication, and comprehensive input validation for a reliable e-commerce platform.
 
 
 
